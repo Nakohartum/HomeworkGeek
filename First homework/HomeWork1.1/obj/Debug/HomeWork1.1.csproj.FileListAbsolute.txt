@@ -1,0 +1,5 @@
+C:\Users\artem\source\repos\HomeWork1\HomeWork1.1\bin\Debug\HomeWork1.1.exe.config
+C:\Users\artem\source\repos\HomeWork1\HomeWork1.1\bin\Debug\HomeWork1.1.exe
+C:\Users\artem\source\repos\HomeWork1\HomeWork1.1\bin\Debug\HomeWork1.1.pdb
+C:\Users\artem\source\repos\HomeWork1\HomeWork1.1\obj\Debug\HomeWork1.1.exe
+C:\Users\artem\source\repos\HomeWork1\HomeWork1.1\obj\Debug\HomeWork1.1.pdb
